@@ -17,7 +17,6 @@ These features are utilized to train and evaluate the predictive model.
 ## 🔍 Methodology
 ### 🔹 Data Preprocessing:
 - Handling missing values
-- Feature scaling and normalization
 - Splitting data into training and testing sets
 
 ### 🔹 Model Training:
